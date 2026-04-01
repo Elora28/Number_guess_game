@@ -1,4 +1,4 @@
- Number Guess Game
+🎯 Number Guess Game
 
 Welcome to the Number Guess Game, a tiny Python project with a big attitude.
 Your mission is simple: outsmart the computer by guessing the secret number it’s hiding.
